@@ -54,12 +54,6 @@ Used boxplots and listing comparisons to investigate hosts managing multiple lis
 4. Availability and review activity showed patterns worth further investigation; correlation does not establish causation.
 5. Some hosts managed multiple listings, suggesting the presence of professional hosting operations.
 
-## Project Files
-- `Airbnb_EDA.ipynb` — Jupyter Notebook containing data cleaning, analysis, and visualizations.
-- `README.md` — Project documentation.
-- `requirements.txt` — Python dependencies, if included.
-- `data/` — Dataset folder, if included.
-
 ## How to Run
 1. Clone or download this repository.
 2. Install the required libraries using `pip install -r requirements.txt`.
